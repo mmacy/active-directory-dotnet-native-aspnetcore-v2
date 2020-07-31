@@ -8,7 +8,6 @@ products:
 page_type: sample
 description: "Protect an ASP.NET Core Web API with the Microsoft identity platform."
 ---
-
 # Protecting an ASP.NET Core Web API using Microsoft identity platform
 
 [![Build status](https://identitydivision.visualstudio.com/IDDP/_apis/build/status/AAD%20Samples/.NET%20client%20samples/active-directory-dotnet-native-aspnetcore-v2)](https://identitydivision.visualstudio.com/IDDP/_build/latest?definitionId=516)
